@@ -83,11 +83,11 @@ void loop()
 
 更多示例参考[这里](https://github.com/leonlucc/WZ/tree/main/examples)
 
-## 手册 
-* [WZ-S formaldehyde module product](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/)
-* [WZ-S formaldehyde module manual](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)
-* [WZ-H3 module product](https://www.szprosense.com/?list_28/41.html)
-* [WZ-H3 module manual](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)
+## 传感器手册 
+* [WZ-S模组介绍](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/)
+* [WZ-S模组技术手册](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)
+* [WZ-H3模组介绍](https://www.szprosense.com/?list_28/41.html)
+* [WZ-H3模组技术手册](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)
 
 ## 感谢
 * 本项目基于[PMZ](https://github.com/fu-hsi/PMS)开发

@@ -1,7 +1,7 @@
 # WZ Library
 Arduino library for Dart WZ-S and Prosense WZ-H3 formaldehyde sensors (WZ-S, WZ-S-K, WS-H3, WS-H3-N), using methods same with the [PMS](https://github.com/fu-hsi/PMS) Library
 
-[中文介绍](https://github.com/leonlucc/WZ/blob/main/README-CN.md)
+[中文介绍](https://github.com/leonlucc/WZ/blob/master/README-CN.md)
 
 ## Installation
 Just use Arduino Library Manager and search "WZ Library" in Sensors category.
@@ -84,15 +84,15 @@ void loop()
 
 more examples [here](https://github.com/leonlucc/WZ/tree/main/examples)
 
-## Mannul 
+## Product and Manual 
 * [WZ-S formaldehyde module product](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/)
 * [WZ-S formaldehyde module manual](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)
 * [WZ-H3 module product](https://www.szprosense.com/?list_28/41.html)
 * [WZ-H3 module manual](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)
 
 ## Acknowledgements
-* based on [PMZ](https://github.com/fu-hsi/PMS)
-* inspired by [WZ-S](https://github.com/Gillwindy/WZ-S) 
+* this project is based on [PMZ](https://github.com/fu-hsi/PMS)
+* this project is inspired by [WZ-S](https://github.com/Gillwindy/WZ-S) 
 
 ## License
 * MIT
