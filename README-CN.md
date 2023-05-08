@@ -1,5 +1,12 @@
 # WZ Library
-面向达特WZ-S以及普晟WZ-H3系列传感器的Arduino开发库，支持WZ-S, WZ-S-K, WS-H3, WS-H3-N
+面向`达特WZ-S`、`普晟WZ-H3`、`炜盛ZE08-CH2O`系列甲醛传感器的Arduino开发库
+
+## 适用的传感器
+|品牌|型号|产品文档|
+|--|--|--|
+|达特|WZ-S, WZ-S-K|[WZ-S模组介绍](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/) <br /> [WZ-S模组技术手册](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)|
+|普晟|WS-H3, WS-H3-N|[WZ-H3模组介绍](https://www.szprosense.com/?list_28/41.html)<br /> [WZ-H3模组技术手册](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)|
+|炜盛|ZE08-CH2O, ZE08K-CH2O, ZE08B-CH2O|[ZE08-CH2O模组介绍](https://www.winsensor.com/product/807.html)<br />[ZE08-CH2O模组技术手册](https://cdn.myxypt.com/26ecc11e/22/06/bc6ccaec97adda754f03ed1c2f65899ceedcbdc9.pdf)|
 
 ## 安装
 打开Arduino IDE -> 项目 -> 加载库 -> 管理库 -> 搜索  "WZ Library"
@@ -82,12 +89,6 @@ void loop()
 ```
 
 更多示例参考[这里](https://github.com/leonlucc/WZ/tree/main/examples)
-
-## 传感器手册 
-* [WZ-S模组介绍](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/)
-* [WZ-S模组技术手册](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)
-* [WZ-H3模组介绍](https://www.szprosense.com/?list_28/41.html)
-* [WZ-H3模组技术手册](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)
 
 ## 感谢
 * 本项目基于[PMZ](https://github.com/fu-hsi/PMS)开发
