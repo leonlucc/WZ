@@ -1,12 +1,12 @@
 # WZ Library
-Arduino library for `Dart WZ-S`, `Prosense WZ-H3` and `Winsen ZE08-CH2O` formaldehyde sensors, using methods same with the [PMS](https://github.com/fu-hsi/PMS) Library. 
+Arduino library for `Dart WZ-S`, `Prosense WZ-H3` and `Winsen ZE08-CH2O` formaldehyde (HCHO) sensors, using methods same with the [PMS](https://github.com/fu-hsi/PMS) Library. 
 
 [中文介绍](https://github.com/leonlucc/WZ/blob/master/README-CN.md)
 
 ## Applicable Sensors
 |brand|model|product documents|
 |--|--|--|
-|DART|WZ-S, WZ-S-K|[WZ-S formaldehyde module product detail](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/) <br /> [WZ-S formaldehyde module manual](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)|
+|DART|WZ-S, WZ-S-K|[WZ-S module product detail](https://www.dart-sensors.com/product/wz-s-formaldehyde-module/) <br /> [WZ-S module manual](https://www.dart-sensors.com/wp-content/uploads/2017/07/formaldehyde_module_operation-manual.pdf)|
 |Prosense|WS-H3, WS-H3-N|[WZ-H3 module product detail](https://www.szprosense.com/?list_28/41.html)<br /> [WZ-H3 module manual](https://www.szprosense.com/static/upload/file/20220208/1644312414263701.pdf)|
 |Winsen|ZE08-CH2O, ZE08K-CH2O, ZE08B-CH2O|[ZE08-CH2O module product detail](https://www.winsensor.com/product/807.html)<br />[ZE08-CH2O module manual](https://cdn.myxypt.com/26ecc11e/22/06/bc6ccaec97adda754f03ed1c2f65899ceedcbdc9.pdf)|
 
